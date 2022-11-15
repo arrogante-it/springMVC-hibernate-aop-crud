@@ -2,4 +2,4 @@
 
 stack that used:
 springMVC, hibernate, mySQL,
-HQL, spring framework tags, jstl.
+HQL, spring framework tags, jstl, springAOP.
