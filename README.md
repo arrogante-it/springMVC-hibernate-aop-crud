@@ -1,6 +1,6 @@
 # springMVC-hibernate-aop-crud
 
-just practice.
+just practice, will improve later 
 
 stack that used:
 springMVC, hibernate, mySQL,
